@@ -19,5 +19,5 @@ Instructions for use:
 3. Choose the right class and topic
 4. The bot will send you the required abstract
 
-Made by the "Fantasy Patrol" team:
+Made by the "Сказачный патруль" team:
 Olesya Shirinkina, Nikita Ustinov, Yana Koroleva, Daniil Lukanin
