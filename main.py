@@ -1,4 +1,4 @@
-# Сode made by Daniel Lukanin.
+# Сode made by Daniel Lukanin©.
 # If it doesn't work, i didn't do it
 
 # API import
