@@ -1,3 +1,6 @@
+# Сode made by Daniel Lukanin.
+# If it doesn't work, i didn't do it
+
 # API import
 import telebot
 from telebot import types
