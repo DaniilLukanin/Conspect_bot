@@ -1,8 +1,9 @@
 # Conspect_bot
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Conspect+bot)](https://git.io/typing-svg)
-Documentation for conspectbot.
 
 Designed to help you study.
+
+Documentation for conspectbot.
 
 Description of the bot features:
 
