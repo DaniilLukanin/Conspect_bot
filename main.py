@@ -4,7 +4,7 @@ from telebot import types
 import os
 
 # Place for variables
-token = "5868139638:AAF78C4NgykmToai0l7PnZgCwdD9OF0e8K4"
+token = "<TOKEN>"
 path=os.path.dirname(__file__)
 
 # Create an instance of the class
