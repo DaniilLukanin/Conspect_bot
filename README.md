@@ -27,6 +27,7 @@ Instructions for use:
 
 
 Made by the "Сказачный патруль" team:
-[Olesya Shirinkina](https://vk.com/shiilka), [Nikita Ustinov](https://vk.com/id382156020), [Yana Koroleva](https://vk.com/yanakoro), [Daniil Lukanin](https://vk.com/lukanindaniil)
+[Olesya Shirinkina](https://vk.com/shiilka)(documentation), [Nikita Ustinov](https://vk.com/id382156020)(presentation and Git), [Yana Koroleva](https://vk.com/yanakoro)(
+story, materials and presentation), [Daniil Lukanin](https://vk.com/lukanindaniil)(code, git, team lead)
 
 Thanks to [Anatoly Nosov](https://vk.com/nosov_t) for help.
